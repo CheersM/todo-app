@@ -2,6 +2,7 @@ Stack:
     
     1. React.js + хуки   
     2. classnames
-    3. React Router
-    4. Axios
-    5. Node-sass
+    3. json-server
+    4. React Router
+    5. Axios
+    6. Node-sass
